@@ -1,0 +1,40 @@
+body {
+    background-color: #282626;
+    color: #eee;
+}
+
+hr {
+    border-width: thick;
+    border-color: peru;
+}
+
+#chaphr {
+    border-width: medium;
+    border-color: blue;
+}
+
+#tblintro {
+    text-align: center;
+    border-style: double;
+    border-color: darkcyan;
+
+}
+
+#chapter1-5 {
+    padding: 20px;
+    text-align: center;
+    border-style: dotted;
+    border-color: crimson;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    font-size: 20px;
+}
